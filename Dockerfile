@@ -4,4 +4,4 @@ RUN npm install -g csslint
 
 WORKDIR /app
 
-CMD ["csslint", "."]
+CMD ["csslint"]
